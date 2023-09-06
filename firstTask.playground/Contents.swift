@@ -1,3 +1,4 @@
+
 import UIKit
 
 class Book {
@@ -33,3 +34,4 @@ let book2 = Book(title: "master and margarita", author: "Soviet writer Mikhail B
 print(book1.bookDetails())
 print("\n")
 print(book2.bookDetails())
+  
